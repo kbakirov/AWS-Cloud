@@ -3,3 +3,9 @@
 
 ## **1 Step**
  Launching EC2 instance on Ubuntu 18.04 and connecting through ssh.
+
+## **2 Step**
+ Checking for installed python
+"""
+python3 --version
+"""
