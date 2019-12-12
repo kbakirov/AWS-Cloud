@@ -9,3 +9,7 @@
 """
 python3 --version
 """
+ Update
+'''
+sudo apt-get install -y
+'''
