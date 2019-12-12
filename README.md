@@ -13,3 +13,7 @@ python3 --version
 '''
 sudo apt-get install -y
 '''
+install pip (same version as python pip3)
+"""
+sudo apt-get install python3-pip -y
+"""
