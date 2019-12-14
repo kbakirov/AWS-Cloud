@@ -46,3 +46,9 @@ Get the token
 ```
 cat nohup.out
 ```
+## **4 Step**
+Install mini-conda
+```
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+sh Miniconda3-latest-Linux-x86_64.sh
+```
