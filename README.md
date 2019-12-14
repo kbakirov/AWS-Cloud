@@ -84,3 +84,7 @@ create linked kernel in Jupyter
 ```
 python3 -m ipykernel install --user --name=<name_in_jupyter>
 ```
+list kernel installed
+```
+jupyter kernelspec list
+```
