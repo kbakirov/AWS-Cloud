@@ -34,3 +34,7 @@ Check running Jupyter notebooks
 ```
 jupyter notebook list
 ```
+Stop running Jupyter notebook
+```
+jupyter notebook stop 8888
+```
