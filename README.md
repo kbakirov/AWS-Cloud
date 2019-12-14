@@ -92,3 +92,15 @@ remove kernel
 ```
 jupyter kernelspec uninstall <name_in_jupyter>
 ```
+
+In Conda virtual environment use pip not pip3 !!!
+
+## Get virtual environment installed packages
+get the list of installed packages in current virtual environment and save it to file
+```
+pip freeze > requirements.txt
+```
+install packages from requirements.txt in another virtual environment
+```
+pip install -r requirements.txt
+```
