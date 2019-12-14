@@ -72,3 +72,11 @@ Remove virtual environment (deactivate first)
 ```
 conda env remove --name <venv_name>
 ```
+## **5 Step**
+In your virtual environment, Install in ipykernel
+```
+conda install ipykernel
+or
+pip install ipykernel
+NOT --> pip3 install ipykernel !! (check warning below)
+```
