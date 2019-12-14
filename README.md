@@ -88,3 +88,7 @@ list kernel installed
 ```
 jupyter kernelspec list
 ```
+remove kernel
+```
+jupyter kernelspec uninstall <name_in_jupyter>
+```
