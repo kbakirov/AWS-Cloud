@@ -52,3 +52,23 @@ Install mini-conda
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
 sh Miniconda3-latest-Linux-x86_64.sh
 ```
+Create virtual environment with python 3.6
+```
+conda create -n <venv_name> python=3.6
+```
+activate virtual environment
+```
+conda activate <venv_name>
+```
+Deactivate virtual environment
+```
+conda deactivate
+```
+List existing environments
+```
+conda env list  
+```
+Remove virtual environment (deactivate first)
+```
+conda env remove --name <venv_name>
+```
