@@ -38,3 +38,4 @@ Stop running Jupyter notebook
 ```
 jupyter notebook stop 8888
 ```
+Run with **nohup** (stay alive even if terminal shut down)
