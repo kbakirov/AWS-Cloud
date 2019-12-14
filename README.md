@@ -80,3 +80,7 @@ or
 pip install ipykernel
 NOT --> pip3 install ipykernel !! (check warning below)
 ```
+create linked kernel in Jupyter
+```
+python3 -m ipykernel install --user --name=<name_in_jupyter>
+```
