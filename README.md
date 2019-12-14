@@ -39,3 +39,10 @@ Stop running Jupyter notebook
 jupyter notebook stop 8888
 ```
 Run with **nohup** (stay alive even if terminal shut down)
+```
+nohup jupyter notebook --ip=0.0.0.0 &
+```
+Get the token
+```
+cat nohup.out
+```
