@@ -31,3 +31,6 @@ Launch Jupyter notebook
 jupyter notebook --ip=0.0.0.0
 ```
 Check running Jupyter notebooks
+```
+jupyter notebook list
+```
